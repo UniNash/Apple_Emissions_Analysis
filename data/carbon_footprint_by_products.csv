@@ -1,0 +1,279 @@
+Fiscal Year,Release Year,Release date,Product Category,Product,Configuration,Generation,Series,Model,Storage,Carbon Footprint
+2015,2014,"September 19, 2014",iPhone,iPhone 6,,,6,Regular,128,95
+2016,2015,"September 25, 2015",iPhone,iPhone 6s,,,6,Regular,32,54
+2016,2015,"September 25, 2015",iPhone,iPhone 6s,,,6,Regular,128,61
+2016,2015,"September 25, 2015",iPhone,iPhone 6s Plus,,,6,Plus,32,63
+2016,2015,"September 25, 2015",iPhone,iPhone 6s Plus,,,6,Plus,128,70
+2016,2016,"March 21, 2016",iPhone,iPhone SE,,1,SE,SE,32,45
+2016,2016,"March 21, 2016",iPhone,iPhone SE,,1,SE,SE,128,53
+2017,2016,"September 7, 2016",iPhone,iPhone 7,,,7,Regular,32,56
+2017,2016,"September 7, 2016",iPhone,iPhone 7,,,7,Regular,128,63
+2017,2016,"September 7, 2016",iPhone,iPhone 7 Plus,,,7,Plus,32,67
+2017,2016,"September 7, 2016",iPhone,iPhone 7 Plus,,,7,Plus,128,74
+2018,2017,"September 12, 2017",iPhone,iPhone 8,,,8,Regular,64,57
+2018,2017,"September 12, 2017",iPhone,iPhone 8,,,8,Regular,256,71
+2018,2017,"September 12, 2017",iPhone,iPhone 8 Plus,,,8,Plus,64,68
+2018,2017,"September 12, 2017",iPhone,iPhone 8 Plus,,,8,Plus,256,82
+2018,2017,"September 12, 2017",iPhone,iPhone X,,,X,Regular,64,79
+2018,2017,"September 12, 2017",iPhone,iPhone X,,,X,Regular,256,93
+2019,2018,"September 12, 2018",iPhone,iPhone XR,,,X,Regular,64,62
+2019,2018,"September 12, 2018",iPhone,iPhone XR,,,X,Regular,128,67
+2019,2018,"September 12, 2018",iPhone,iPhone XR,,,X,Regular,256,76
+2019,2018,"September 12, 2018",iPhone,iPhone XS,,,X,Regular,64,70
+2019,2018,"September 12, 2018",iPhone,iPhone XS,,,X,Regular,256,85
+2019,2018,"September 12, 2018",iPhone,iPhone XS,,,X,Regular,512,99
+2019,2018,"September 12, 2018",iPhone,iPhone XS Max,,,X,Max,64,77
+2019,2018,"September 12, 2018",iPhone,iPhone XS Max,,,X,Max,256,91
+2019,2018,"September 12, 2018",iPhone,iPhone XS Max,,,X,Max,512,106
+2020,2019,"September 10, 2019",iPhone,iPhone 11,,,11,Regular,64,72
+2020,2019,"September 10, 2019",iPhone,iPhone 11,,,11,Regular,128,77
+2020,2019,"September 10, 2019",iPhone,iPhone 11,,,11,Regular,256,89
+2020,2019,"September 10, 2019",iPhone,iPhone 11 Pro,,,11,Pro,64,80
+2020,2019,"September 10, 2019",iPhone,iPhone 11 Pro,,,11,Pro,256,96
+2020,2019,"September 10, 2019",iPhone,iPhone 11 Pro,,,11,Pro,512,110
+2020,2019,"September 10, 2019",iPhone,iPhone 11 Pro Max,,,11,Max,64,86
+2020,2019,"September 10, 2019",iPhone,iPhone 11 Pro Max,,,11,Max,256,102
+2020,2019,"September 10, 2019",iPhone,iPhone 11 Pro Max,,,11,Max,512,117
+2021,2020,"October 13, 2020",iPhone,iPhone 12,,,12,Regular,64,70
+2021,2020,"October 13, 2020",iPhone,iPhone 12,,,12,Regular,128,75
+2021,2020,"October 13, 2020",iPhone,iPhone 12,,,12,Regular,256,85
+2021,2020,"October 13, 2020",iPhone,iPhone 12 Pro,,,12,Pro,128,82
+2021,2020,"October 13, 2020",iPhone,iPhone 12 Pro,,,12,Pro,256,93
+2021,2020,"October 13, 2020",iPhone,iPhone 12 Pro,,,12,Pro,512,107
+2021,2020,"October 13, 2020",iPhone,iPhone 12 Pro Max,,,12,Pro Max,128,86
+2021,2020,"October 13, 2020",iPhone,iPhone 12 Pro Max,,,12,Pro Max,256,96
+2021,2020,"October 13, 2020",iPhone,iPhone 12 Pro Max,,,12,Pro Max,512,110
+2021,2020,"October 13, 2020",iPhone,iPhone 12 mini,,,12,Mini,64,64
+2021,2020,"October 13, 2020",iPhone,iPhone 12 mini,,,12,Mini,128,69
+2021,2020,"October 13, 2020",iPhone,iPhone 12 mini,,,12,Mini,256,80
+2020,2020,"April 15, 2020",iPhone,iPhone SE,,2,SE,SE,64,57
+2020,2020,"April 15, 2020",iPhone,iPhone SE,,2,SE,SE,128,62
+2020,2020,"April 15, 2020",iPhone,iPhone SE,,2,SE,SE,256,73
+2022,2021,"September 14, 2021",iPhone,iPhone 13 ,,,13,Regular,128,64
+2022,2021,"September 14, 2021",iPhone,iPhone 13 ,,,13,Regular,256,71
+2022,2021,"September 14, 2021",iPhone,iPhone 13 ,,,13,Regular,512,83
+2022,2021,"September 14, 2021",iPhone,iPhone 13 mini,,,13,Mini,128,61
+2022,2021,"September 14, 2021",iPhone,iPhone 13 mini,,,13,Mini,256,69
+2022,2021,"September 14, 2021",iPhone,iPhone 13 mini,,,13,Mini,512,81
+2022,2021,"September 14, 2021",iPhone,iPhone 13 Pro,,,13,Pro,128,69
+2022,2021,"September 14, 2021",iPhone,iPhone 13 Pro,,,13,Pro,256,76
+2022,2021,"September 14, 2021",iPhone,iPhone 13 Pro,,,13,Pro,512,88
+2022,2021,"September 14, 2021",iPhone,iPhone 13 Pro,,,13,Pro,1024,112
+2022,2021,"September 14, 2021",iPhone,iPhone 13 Pro Max,,,13,Pro Max,128,74
+2022,2021,"September 14, 2021",iPhone,iPhone 13 Pro Max,,,13,Pro Max,256,81
+2022,2021,"September 14, 2021",iPhone,iPhone 13 Pro Max,,,13,Pro Max,512,93
+2022,2021,"September 14, 2021",iPhone,iPhone 13 Pro Max,,,13,Pro Max,1024,117
+2023,2022,"September 7, 2022",iPhone,iPhone 14,,,14,Regular,128,61
+2023,2022,"September 7, 2022",iPhone,iPhone 14,,,14,Regular,256,67
+2023,2022,"September 7, 2022",iPhone,iPhone 14,,,14,Regular,512,83
+2023,2022,"September 7, 2022",iPhone,iPhone 14 Plus,,,14,Plus,128,68
+2023,2022,"September 7, 2022",iPhone,iPhone 14 Plus,,,14,Plus,256,75
+2023,2022,"September 7, 2022",iPhone,iPhone 14 Plus,,,14,Plus,512,91
+2023,2022,"September 7, 2022",iPhone,iPhone 14 Pro,,,14,Pro,128,65
+2023,2022,"September 7, 2022",iPhone,iPhone 14 Pro,,,14,Pro,256,71
+2023,2022,"September 7, 2022",iPhone,iPhone 14 Pro,,,14,Pro,512,84
+2023,2022,"September 7, 2022",iPhone,iPhone 14 Pro,,,14,Pro,1024,116
+2023,2022,"September 7, 2022",iPhone,iPhone 14 Pro Max,,,14,Pro Max,128,73
+2023,2022,"September 7, 2022",iPhone,iPhone 14 Pro Max,,,14,Pro Max,256,80
+2023,2022,"September 7, 2022",iPhone,iPhone 14 Pro Max,,,14,Pro Max,512,93
+2023,2022,"September 7, 2022",iPhone,iPhone 14 Pro Max,,,14,Pro Max,1024,124
+2024,2023,"September 12, 2023",iPhone,iPhone 15,,,15,Regular,128,56
+2024,2023,"September 12, 2023",iPhone,iPhone 15,,,15,Regular,256,61
+2024,2023,"September 12, 2023",iPhone,iPhone 15,,,15,Regular,512,74
+2024,2023,"September 12, 2023",iPhone,iPhone 15 Plus,,,15,Plus,128,61
+2024,2023,"September 12, 2023",iPhone,iPhone 15 Plus,,,15,Plus,256,79
+2024,2023,"September 12, 2023",iPhone,iPhone 15 Plus,,,15,Plus,512,78
+2024,2023,"September 12, 2023",iPhone,iPhone 15 Pro,,,15,Pro,128,66
+2024,2023,"September 12, 2023",iPhone,iPhone 15 Pro,,,15,Pro,256,71
+2024,2023,"September 12, 2023",iPhone,iPhone 15 Pro,,,15,Pro,512,83
+2024,2023,"September 12, 2023",iPhone,iPhone 15 Pro,,,15,Pro,1024,107
+2024,2023,"September 12, 2023",iPhone,iPhone 15 Pro Max,,,15,Pro Max,256,75
+2024,2023,"September 12, 2023",iPhone,iPhone 15 Pro Max,,,15,Pro Max,512,87
+2024,2023,"September 12, 2023",iPhone,iPhone 15 Pro Max,,,15,Pro Max,1024,110
+2015,2014,"October 16, 2014",iPad,iPad mini,,3,3,Mini,128,170
+2015,2014,"October 16, 2014",iPad,iPad Air,,2,2,Air,128,190
+2016,2015,"September 9, 2015",iPad,iPad mini,,4,4,Mini,128,120
+2016,2015,"September 9, 2015",iPad,iPad Pro 12.9-inch,,1,,Pro,128,270
+2016,2016,"March 21, 2016",iPad,iPad Pro 9.7-inch,,1,,Pro,256,210
+2017,2017,"June 5, 2017",iPad,iPad Pro 10.5-inch,WiFi,1,,Pro,64,100
+2017,2017,"June 5, 2017",iPad,iPad Pro 10.5-inch,WiFi+Cellular,1,,Pro,64,104
+2017,2017,"June 5, 2017",iPad,iPad Pro 10.5-inch,WiFi,1,,Pro,256,117
+2017,2017,"June 5, 2017",iPad,iPad Pro 10.5-inch,WiFi+Cellular,1,,Pro,256,121
+2017,2017,"June 5, 2017",iPad,iPad Pro 10.5-inch,WiFi,1,,Pro,512,132
+2017,2017,"June 5, 2017",iPad,iPad Pro 10.5-inch,WiFi+Cellular,1,,Pro,512,136
+2017,2017,"March 21, 2017",iPad,iPad,WiFi,5,,Regular,32,135
+2017,2017,"March 21, 2017",iPad,iPad,WiFi+Cellular,5,,Regular,32,139
+2017,2017,"March 21, 2017",iPad,iPad,WiFi,5,,Regular,128,142
+2017,2017,"March 21, 2017",iPad,iPad,WiFi+Cellular,5,,Regular,128,146
+2017,2017,"June 5, 2017",iPad,iPad Pro 12.9-inch,WiFi,2,,Pro,64,122
+2017,2017,"June 5, 2017",iPad,iPad Pro 12.9-inch,WiFi,2,,Pro,256,138
+2017,2017,"June 5, 2017",iPad,iPad Pro 12.9-inch,WiFi,2,,Pro,512,154
+2017,2017,"June 5, 2017",iPad,iPad Pro 12.9-inch,WiFi+Cellular,2,,Pro,64,126
+2017,2017,"June 5, 2017",iPad,iPad Pro 12.9-inch,WiFi+Cellular,2,,Pro,256,143
+2017,2017,"June 5, 2017",iPad,iPad Pro 12.9-inch,WiFi+Cellular,2,,Pro,512,158
+2018,2018,"March 27, 2018",iPad,iPad,WiFi,6,,Regular,32,98
+2018,2018,"March 27, 2018",iPad,iPad,WiFi+Cellular,6,,Regular,128,99
+2018,2018,"March 27, 2018",iPad,iPad,WiFi,6,,Regular,32,105
+2018,2018,"March 27, 2018",iPad,iPad,WiFi+Cellular,6,,Regular,128,106
+2019,2018,"October 30, 2018",iPad,iPad Pro 11-inch,,1,,Pro,64,113
+2019,2018,"October 30, 2018",iPad,iPad Pro 11-inch,,1,,Pro,256,127
+2019,2018,"October 30, 2018",iPad,iPad Pro 11-inch,,1,,Pro,512,152
+2019,2018,"October 30, 2018",iPad,iPad Pro 11-inch,,1,,Pro,1024,184
+2019,2018,"October 30, 2018",iPad,iPad Pro 12.9-inch,,3,,Pro,64,136
+2019,2018,"October 30, 2018",iPad,iPad Pro 12.9-inch,,3,,Pro,256,150
+2019,2018,"October 30, 2018",iPad,iPad Pro 12.9-inch,,3,,Pro,512,151
+2019,2018,"October 30, 2018",iPad,iPad Pro 12.9-inch,,3,,Pro,1024,206
+2019,2019,"March 18, 2019",iPad,iPad Air,,3,,Air,64,86
+2019,2019,"March 18, 2019",iPad,iPad Air,,3,,Air,256,102
+2019,2019,"March 18, 2019",iPad,iPad mini,,5,,Mini,64,70
+2019,2019,"March 18, 2019",iPad,iPad mini,,5,,Mini,256,84
+2020,2019,"September 10, 2019",iPad,iPad,WiFi+Cellular,7,,Regular,32,87
+2020,2019,"September 10, 2019",iPad,iPad,WiFi+Cellular,7,,Regular,128,93
+2020,2020,"March 18, 2020",iPad,iPad Pro 11-inch,,2,,Pro,128,119
+2020,2020,"March 18, 2020",iPad,iPad Pro 11-inch,,2,,Pro,256,130
+2020,2020,"March 18, 2020",iPad,iPad Pro 11-inch,,2,,Pro,512,158
+2020,2020,"March 18, 2020",iPad,iPad Pro 11-inch,,2,,Pro,1024,206
+2020,2020,"March 18, 2020",iPad,iPad Pro 12.9-inch,,4,,Pro,128,140
+2020,2020,"March 18, 2020",iPad,iPad Pro 12.9-inch,,4,,Pro,256,151
+2020,2020,"March 18, 2020",iPad,iPad Pro 12.9-inch,,4,,Pro,512,178
+2020,2020,"March 18, 2020",iPad,iPad Pro 12.9-inch,,4,,Pro,1024,227
+2021,2020,"September 15, 2020",iPad,iPad,,8,,Regular,32,70
+2021,2020,"September 15, 2020",iPad,iPad,,8,,Regular,128,78
+2021,2020,"September 15, 2020",iPad,iPad Air,,4,,Air,64,82
+2021,2020,"September 15, 2020",iPad,iPad Air,,4,,Air,256,96
+2021,2021,"April 20, 2021",iPad,iPad Pro 11-inch,,3,,Pro,128,99
+2021,2021,"April 20, 2021",iPad,iPad Pro 11-inch,,3,,Pro,256,110
+2021,2021,"April 20, 2021",iPad,iPad Pro 11-inch,,3,,Pro,512,131
+2021,2021,"April 20, 2021",iPad,iPad Pro 11-inch,,3,,Pro,1024,171
+2021,2021,"April 20, 2021",iPad,iPad Pro 11-inch,,3,,Pro,2048,230
+2021,2021,"April 20, 2021",iPad,iPad Pro 12.9-inch,,5,,Pro,128,138
+2021,2021,"April 20, 2021",iPad,iPad Pro 12.9-inch,,5,,Pro,256,166
+2021,2021,"April 20, 2021",iPad,iPad Pro 12.9-inch,,5,,Pro,512,187
+2021,2021,"April 20, 2021",iPad,iPad Pro 12.9-inch,,5,,Pro,1024,228
+2021,2021,"April 20, 2021",iPad,iPad Pro 12.9-inch,,5,,Pro,2048,286
+2022,2021,"September 14, 2021",iPad,iPad mini,,6,,Mini,64,68
+2022,2021,"September 14, 2021",iPad,iPad mini,,6,,Mini,128,71
+2022,2021,"September 14, 2021",iPad,iPad mini,,6,,Mini,256,77
+2022,2021,"September 14, 2021",iPad,iPad mini,,6,,Mini,512,90
+2022,2021,"September 14, 2021",iPad,iPad,,9,,Regular,64,75
+2022,2021,"September 14, 2021",iPad,iPad,,9,,Regular,256,84
+2023,2022,"October 18, 2022",iPad,iPad,,10,,Regular,64,72
+2023,2022,"October 18, 2022",iPad,iPad,,10,,Regular,256,82
+2022,2022,"March 18, 2022",iPad,iPad Air,,5,,Air,64,80
+2022,2022,"March 18, 2022",iPad,iPad Air,,5,,Air,128,84
+2022,2022,"March 18, 2022",iPad,iPad Air,,5,,Air,256,92
+2023,2022,"October 18, 2022",iPad,iPad Pro 11-inch,,4,,Pro,128,107
+2023,2022,"October 18, 2022",iPad,iPad Pro 11-inch,,4,,Pro,256,121
+2023,2022,"October 18, 2022",iPad,iPad Pro 11-inch,,4,,Pro,512,121
+2023,2022,"October 18, 2022",iPad,iPad Pro 11-inch,,4,,Pro,1024,148
+2023,2022,"October 18, 2022",iPad,iPad Pro 11-inch,,4,,Pro,2048,249
+2023,2022,"October 18, 2022",iPad,iPad Pro 12.9-inch,,6,,Pro,128,135
+2023,2022,"October 18, 2022",iPad,iPad Pro 12.9-inch,,6,,Pro,256,142
+2023,2022,"October 18, 2022",iPad,iPad Pro 12.9-inch,,6,,Pro,512,156
+2023,2022,"October 18, 2022",iPad,iPad Pro 12.9-inch,,6,,Pro,1024,183
+2023,2022,"October 18, 2022",iPad,iPad Pro 12.9-inch,,6,,Pro,2048,284
+2015,2015,"March 9, 2015",MacBook,MacBook Air 13-inch,,,,Air,256,480
+2015,2015,"March 9, 2015",MacBook,MacBook Air 11-inch,,,,Air,256,430
+2015,2015,"March 9, 2015",MacBook,MacBook 12-inch,,,,Regular,512,470
+2015,2015,"May 19, 2015",MacBook,MacBook Pro 15-inch,,,,Pro,512,870
+2015,2015,"March 9, 2015",MacBook,MacBook Pro 13-inch,,,,Pro,512,710
+2015,2015,"May 19, 2015",MacBook,MacBook Pro 15-inch,,,,Pro,256,592
+2015,2015,"March 9, 2015",MacBook,MacBook Pro 13-inch,,,,Pro,128,439
+2016,2016,"April 19, 2016",MacBook,MacBook 12-inch,,,,Regular,512,430
+2017,2016,"October 27, 2016",MacBook,MacBook Pro 15-inch,,,,Pro,256,461
+2017,2016,"October 27, 2016",MacBook,MacBook Pro 15-inch,,,,Pro,512,469
+2017,2016,"October 27, 2016",MacBook,MacBook Pro 13-inch,,,,Pro,256,321
+2017,2016,"October 27, 2016",MacBook,MacBook Pro 13-inch,,,,Pro,256,344
+2017,2016,"October 27, 2016",MacBook,MacBook Pro 13-inch,,,,Pro,512,379
+2017,2017,"June 5, 2017",MacBook,MacBook 12-inch,,,,Regular,256,306
+2017,2017,"June 5, 2017",MacBook,MacBook 12-inch,,,,Regular,512,348
+2017,2017,"June 5, 2017",MacBook,MacBook Pro 15-inch,,,,Pro,256,449
+2017,2017,"June 5, 2017",MacBook,MacBook Pro 15-inch,,,,Pro,512,454
+2017,2017,"June 5, 2017",MacBook,MacBook Pro 13-inch,,,,Pro,128,302
+2017,2017,"June 5, 2017",MacBook,MacBook Pro 13-inch,,,,Pro,256,319
+2017,2017,"June 5, 2017",MacBook,MacBook Pro 13-inch,,,,Pro,256,336
+2017,2017,"June 5, 2017",MacBook,MacBook Pro 13-inch,,,,Pro,512,371
+2017,2017,"June 5, 2017",MacBook,MacBook Air 13-inch,,,,Air,128,339
+2017,2017,"June 5, 2017",MacBook,MacBook Air 13-inch,,,,Air,256,368
+2018,2018,"July 12, 2018",MacBook,MacBook Pro 15-inch,,,,Pro,256,366
+2018,2018,"July 12, 2018",MacBook,MacBook Pro 15-inch,,,,Pro,512,386
+2018,2018,"July 12, 2018",MacBook,MacBook Pro 13-inch,,,,Pro,128,229
+2018,2018,"July 12, 2018",MacBook,MacBook Pro 13-inch,,,,Pro,256,243
+2018,2018,"July 12, 2018",MacBook,MacBook Pro 13-inch,,,,Pro,256,273
+2018,2018,"July 12, 2018",MacBook,MacBook Pro 13-inch,,,,Pro,512,293
+2019,2018,"October 30, 2018 ",MacBook,MacBook Air 13-inch,,,,Air,128,176
+2019,2018,"October 30, 2018 ",MacBook,MacBook Air 13-inch,,,,Air,256,198
+2019,2018,"October 30, 2018",MacBook,MacBook 12-inch,,,,Regular,256,233
+2019,2018,"October 30, 2018",MacBook,MacBook 12-inch,,,,Regular,512,270
+2019,2019,"May 21, 2019",MacBook,MacBook Pro 13-inch,,,,Pro,128,222
+2019,2019,"May 21, 2019",MacBook,MacBook Pro 13-inch,,,,Pro,256,237
+2019,2019,"May 21, 2019",MacBook,MacBook Pro 13-inch,,,,Pro,256,247
+2019,2019,"May 21, 2019",MacBook,MacBook Pro 13-inch,,,,Pro,512,267
+2019,2019,"May 21, 2019",MacBook,MacBook Pro 15-inch,,,,Pro,256,334
+2019,2019,"May 21, 2019",MacBook,MacBook Pro 15-inch,,,,Pro,512,354
+2019,2019,"July 9, 2019 ",MacBook,MacBook Air 13-inch,,,,Air,128,176
+2019,2019,"July 9, 2019 ",MacBook,MacBook Air 13-inch,,,,Air,256,198
+2019,2019,"July 9, 2019 ",MacBook,MacBook Pro 13-inch,,,,Pro,128,210
+2019,2019,"July 9, 2019 ",MacBook,MacBook Pro 13-inch,,,,Pro,256,229
+2019,2019,"July 9, 2019 ",MacBook,MacBook Pro 13-inch,,,,Pro,256,247
+2019,2019,"July 9, 2019 ",MacBook,MacBook Pro 13-inch,,,,Pro,512,267
+2020,2020,"May 4, 2020",MacBook,MacBook Pro 13-inch,,,,Pro,256,217
+2020,2020,"May 4, 2020",MacBook,MacBook Pro 13-inch,,,,Pro,512,238
+2020,2020,"May 4, 2020",MacBook,MacBook Pro 13-inch,,,,Pro,512,251
+2020,2020,"May 4, 2020",MacBook,MacBook Pro 13-inch,,,,Pro,1024,298
+2020,2020,"March 18, 2020",MacBook,MacBook Air 13-inch,,,,Air,256,174
+2020,2020,"March 18, 2020",MacBook,MacBook Air 13-inch,,,,Air,512,202
+2020,2019,"November 13, 2019",MacBook,MacBook Pro 16-inch,,,,Pro,512,394
+2020,2019,"November 13, 2019",MacBook,MacBook Pro 16-inch,,,,Pro,1024,465
+2021,2020,"November 10, 2020",MacBook,MacBook Pro 13-inch,,,,Pro,256,185
+2021,2020,"November 10, 2020",MacBook,MacBook Pro 13-inch,,,,Pro,512,207
+2022,2021,"October 18, 2021",MacBook,MacBook Pro 14-inch,,,,Pro,512,271
+2022,2021,"October 18, 2021",MacBook,MacBook Pro 14-inch,,,,Pro,1024,307
+2022,2021,"October 18, 2021",MacBook,MacBook Pro 16-inch,,,,Pro,512,349
+2022,2021,"October 18, 2021",MacBook,MacBook Pro 16-inch,,,,Pro,1024,382
+2022,2021,"October 18, 2021",MacBook,MacBook Pro 16-inch,,,,Pro,1024,395
+2021,2020,"November 10, 2020",MacBook,MacBook Pro 13-inch,,,,Pro,256,161
+2021,2020,"November 10, 2020",MacBook,MacBook Pro 13-inch,,,,Pro,512,181
+2022,2022,"June 6, 2022",MacBook,MacBook Air 13-inch,,,,Air,256,147
+2022,2022,"June 6, 2022",MacBook,MacBook Air 13-inch,,,,Air,512,171
+2022,2022,"June 5, 2022",MacBook,MacBook Air 15-inch,,,,Air,256,139
+2022,2022,"June 5, 2022",MacBook,MacBook Air 15-inch,,,,Air,512,152
+2022,2022,"June 6, 2022",MacBook,MacBook Pro 13-inch,,,,Pro,256,167
+2022,2022,"June 6, 2022",MacBook,MacBook Pro 13-inch,,,,Pro,512,182
+2023,2023,"January 17, 2023",MacBook,MacBook Pro 14-inch,,,,Pro,512,243
+2023,2023,"January 17, 2023",MacBook,MacBook Pro 14-inch,,,,Pro,1024,272
+2023,2023,"January 17, 2023",MacBook,MacBook Pro 14-inch,,,,Pro,1024,301
+2023,2023,"January 17, 2023",MacBook,MacBook Pro 16-inch,,,,Pro,512,300
+2023,2023,"January 17, 2023",MacBook,MacBook Pro 16-inch,,,,Pro,1024,327
+2023,2023,"January 17, 2023",MacBook,MacBook Pro 16-inch,,,,Pro,1024,356
+2016,2015,"October 13, 2015",iMac,iMac 27-inch,,,,Regular,512,1010
+2016,2015,"October 13, 2015",iMac,iMac 21-inch,,,,Regular,1024,630
+2017,2017,"June 5, 2017",iMac,iMac 27-inch,,,,Regular,1024,1005
+2017,2017,"June 5, 2017",iMac,iMac 27-inch,,,,Regular,2048,1005
+2017,2017,"June 5, 2017",iMac,iMac 21.5-inch,,,,Regular,1024,494
+2018,2017,"December 14, 2017",iMac,Mac Pro,,,,Pro,512,1000
+2019,2018,"October 30, 2018 ",iMac,Mac Mini,,,,Mini,256,270
+2019,2018,"October 30, 2018 ",iMac,Mac Mini,,,,Mini,512,290
+2019,2019,"March 19, 2019",iMac,iMac 27-inch,,,,Regular,1024,993
+2019,2019,"March 19, 2019",iMac,iMac 27-inch,,,,Regular,1024,1007
+2019,2019,"March 19, 2019",iMac,iMac 27-inch,,,,Regular,2048,1007
+2019,2019,"March 19, 2019",iMac,iMac 21.5-inch,,,,Regular,1024,588
+2019,2019,"March 19, 2019",iMac,iMac 21.5-inch,,,,Regular,1024,596
+2019,2019,"December 14, 2017",iMac,iMac Pro,,,,Pro,1024,1468
+2019,2019,"December 14, 2017",iMac,iMac Pro,,,,Pro,4096,1783
+2020,2020,"August 4, 2020",iMac,iMac 27-inch,,,,Regular,256,824
+2020,2020,"August 4, 2020",iMac,iMac 27-inch,,,,Regular,512,857
+2020,2020,"August 4, 2020",iMac,iMac 27-inch,,,,Regular,512,858
+2021,2020,"November 10, 2020",iMac,Mac mini,,,,Mini,256,172
+2021,2020,"November 10, 2020",iMac,Mac mini,,,,Mini,512,197
+2022,2022,"March 18, 2022",iMac,Mac Studio,,,,Studio,512,262
+2022,2022,"March 18, 2022",iMac,Mac Studio,,,,Studio,1024,375
+2023,2023,"June 5, 2023",iMac,Mac Pro,,,,Pro,1024,1647
+2023,2023,"June 5, 2023",iMac,Mac Studio,,,,Studio,512,290
+2023,2023,"June 5, 2023",iMac,Mac Studio,,,,Studio,1024,346
+2023,2023,"January 17, 2023",iMac,Mac mini,,,,Mini,256,112
+2023,2023,"January 17, 2023",iMac,Mac mini,,,,Mini,512,126
+2023,2023,"January 17, 2023",iMac,Mac mini,,,,Mini,512,150
+2021,2021,"April 20, 2021",iMac,iMac 24-inch,,,,Regular,256,481
+2021,2021,"April 20, 2021",iMac,iMac 24-inch,,,,Regular,256,486
+2021,2021,"April 20, 2021",iMac,iMac 24-inch,,,,Regular,512,511
